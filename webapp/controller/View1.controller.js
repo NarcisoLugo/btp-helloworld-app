@@ -9,7 +9,6 @@ sap.ui.define([
      onInit: function () {
      },
      onPress: function () {
-        debugger;
         MessageBox.alert("You have been alerted again!");
      }
   });
