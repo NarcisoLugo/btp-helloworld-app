@@ -9,7 +9,7 @@ sap.ui.define([
      onInit: function () {
      },
      onPress: function () {
-        MessageBox.alert("You have been alerted again!");
+        MessageBox.alert("You have been alerted again and again!");
      }
   });
    });
